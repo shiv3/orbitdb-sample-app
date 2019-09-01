@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "ipfs": "^0.37.1",
-    "orbit-db": "^0.21.4"
+    "orbit-db": "^0.21.4",
+    "ws": ">=3.3.1"
   },
   "devDependencies": {
     "webpack": "^4.39.2",
